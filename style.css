@@ -17,9 +17,9 @@ p {
   font-size: 1.7em;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 325px) {
   p {
-    font-size: 5em;
+    font-size: 4em;
   }
 }
 
